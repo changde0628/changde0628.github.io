@@ -21,8 +21,9 @@
   - [🦕 比賽紀錄](#!Record.md)
   - [🦔 賽後檢討](#!Think.md)
   - [🌊 廢文](#!Talk.md)
-  
+
 [gimmick:themechooser](🎨  網站配色)
+
 <!-- [gimmick:theme](flatly) -->
 <!-- +++ -->
 [gimmick:theme](Darkly)
