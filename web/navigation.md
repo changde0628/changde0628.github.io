@@ -13,6 +13,11 @@
 <!-- +++ -->
 [gimmick:theme](Darkly)
  <!-- +++ -->
+<!-- cyborg -->
+<!-- [gimmick:theme](amelia) -->
+<!-- [gimmick:theme](slate) -->
+<!-- cosmo -->
+<!-- [gimmick:theme](cerulean) -->
 
 [網站字體]()  
 
