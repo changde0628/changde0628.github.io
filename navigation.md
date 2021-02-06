@@ -9,16 +9,12 @@
   - [📈演算法](#!algorithm.md)
   - [🤖人工智慧](#!mdwiki/mdwiki.html.md)
 
----
-
 [📚  解題紀錄]()
 
   - # 📣 解題系統 
   - [🔥 Uva](#!Uva.md)
   - [🌲 Codeforce](#!Codeforce.md)
-  - [❄ 國內Judge](#!Judge.md)
-
----
+  - [❄ Judge](#!Judge.md)
 
 [📚  雜文]()
 
