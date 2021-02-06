@@ -1,7 +1,9 @@
 #ChangDe's Code MDwiki
+
   :::success 
 📢  提示: 網站為本人寫程式的紀錄，上面存在各種Template跟筆記，若有錯誤敬請見諒，使用MDwiki搭配Github + Hackmd。
   :::
+  
 <font size=4>😶網站作者 ChangDe</font><br>
 
   :::info
@@ -9,6 +11,7 @@
   - 預計內容包含基本數論、程式設計、人工智慧、深度學習等內容
   - 在開始之前先列出一些架構以便未來參考
   :::
+
 #📃資料內容
   - 程式設計特殊用法
     - Python
