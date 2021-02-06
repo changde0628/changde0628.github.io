@@ -7,10 +7,10 @@
 - 在開始之前先列出一些架構以便未來參考
 
 <font size=4>📃資料內容</font><br>
-- 程式設計特殊用法
+  - 程式設計特殊用法
     - Python
     - C++
-- 資料結構
+  - 資料結構
     - Recursion
         - generate subset and permutation
         - 8-Queen
@@ -26,7 +26,7 @@
     - Disjoint Set
     - Union find tree
     - 😓Updating....
-- 演算法
+  - 演算法
     - Time Complexity
     - Algorithm Design Reference
     - Sort and Search Problem
@@ -37,15 +37,15 @@
     - Graph algorithm
     - Tree algorithm
     - Advance use
-- 人工智慧
+  - 人工智慧
     - Note
-- 深度學習
+  - 深度學習
     - Note
-- 數論
+  - 數論
     - GCD 歐基里德擴展
     - 模逆元
     - 中國餘數定理
     - 快速冪
     - 矩陣快速冪
     - 大數取模
-    - 拉格朗日 N元一次方程
+    - 拉格朗日
