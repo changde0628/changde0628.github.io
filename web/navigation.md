@@ -7,6 +7,9 @@
   - [Gimmicks：補強 markdown 本來沒有的功能](#!mdwiki/mdwiki.gimmicks.md)
   - [㊙ md 檔案竟然也能直接使用 HTML 標籤！？](#!mdwiki/mdwiki.html.md)
 
+
+---
+
 [gimmick:themechooser](🎨  網站配色)
 <!-- [gimmick:theme](flatly) -->
 <!-- +++ -->
