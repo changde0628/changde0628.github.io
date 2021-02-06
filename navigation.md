@@ -1,5 +1,4 @@
 #Chang De's Code MDwiki
-[gimmick:themechooser](darkly)
 
 [📖  程式資料]()
 
