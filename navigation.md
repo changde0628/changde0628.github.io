@@ -1,6 +1,7 @@
-⎝◕‿◕⎠ Chang De's Code MDwiki
+#Chang De's Code MDwiki
 
 [📖  程式資料]()
+
   - # 📣 Template 
       - [💻 C++](#!Ctemplate.md)
       - [⚡ Python](#!Pytemplate.md)
@@ -10,6 +11,7 @@
 ---
 
 [📚  解題紀錄]()
+
   - # 📣 解題系統 
       - [🔥 Uva](#!Uva.md)
       - [🌲 Codeforce](#!Codeforce.md)
@@ -18,6 +20,7 @@
 ---
 
 [📚  雜文]()
+
   - # 📣 零散分類 
       - [🦕 比賽紀錄](#!Record.md)
       - [🦔 賽後檢討](#!Think.md)
