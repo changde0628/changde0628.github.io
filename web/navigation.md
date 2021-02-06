@@ -1,5 +1,3 @@
-[gimmick:theme](Darkly)
-
 #⎝◕‿◕⎠ MDwiki 試玩中
 [📖  MDwiki]()
 
@@ -8,7 +6,17 @@
   - [🔰 MDwiki 基礎重點架構檔案](#!mdwiki/mdwiki.main.md)
   - [Gimmicks：補強 markdown 本來沒有的功能](#!mdwiki/mdwiki.gimmicks.md)
   - [㊙ md 檔案竟然也能直接使用 HTML 標籤！？](#!mdwiki/mdwiki.html.md)
-  ---
+
+[gimmick:themechooser](🎨  網站配色)
+<!-- [gimmick:theme](flatly) -->
+<!-- +++ -->
+[gimmick:theme](Darkly)
+ <!-- +++ -->
+<!-- cyborg -->
+<!-- [gimmick:theme](amelia) -->
+<!-- [gimmick:theme](slate) -->
+<!-- cosmo -->
+<!-- [gimmick:theme](cerulean) -->
 
 [網站字體]()  
 
