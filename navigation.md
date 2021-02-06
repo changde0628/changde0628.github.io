@@ -27,7 +27,7 @@
 <!-- [gimmick:theme](flatly) -->
 <!-- +++ -->
 [gimmick:theme](Darkly)
- <!-- +++ -->
+<!-- +++ -->
 <!-- cyborg -->
 <!-- [gimmick:theme](amelia) -->
 <!-- [gimmick:theme](slate) -->
