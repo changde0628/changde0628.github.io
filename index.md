@@ -1,14 +1,14 @@
 
-:::success 
+  :::success 
 📢  提示: 網站為本人寫程式的紀錄，上面存在各種Template跟筆記，若有錯誤敬請見諒，使用MDwiki搭配Github + Hackmd。
-:::
+  :::
 <font size=4>😶網站作者 ChangDe</font><br>
 
-:::info
+  :::info
   - 目的只是要來記錄一些特殊的寫法和督促自己練習競程
   - 預計內容包含基本數論、程式設計、人工智慧、深度學習等內容
   - 在開始之前先列出一些架構以便未來參考
-:::
+  :::
 <font size=4>📃資料內容</font><br>
   - 程式設計特殊用法
     - Python
